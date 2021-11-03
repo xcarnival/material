@@ -1,4 +1,5 @@
 # material
 XCarnival 
-A Synthetic Assets Aggregator for everyone
+The Metaverse Assets Liquidation Aggregator for Everyone
+
 material of XCarnival.
